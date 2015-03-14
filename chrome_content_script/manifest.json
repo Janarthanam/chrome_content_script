@@ -9,9 +9,6 @@
     "16": "assets/icon_16.png",
     "128": "assets/icon_128.png"
   },
-  "externally_connectable": {
-     "matches": ["*://*.yahoo.com/*"]
-   },
   "content_scripts":  [
     {
       "matches": ["https://*.yahoo.com/*"],
